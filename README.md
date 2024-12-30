@@ -1,7 +1,3 @@
-Here's a **README** for the CS50’s Web Programming with Python and JavaScript (Mail Project) that you can use:
-
----
-
 # CS50’s Web Programming with Python and JavaScript: Mail Project
 
 ## Overview
