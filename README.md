@@ -129,3 +129,4 @@ You can edit `styles.css` to customize the look and feel of the mail client.
 ## Conclusion
 
 This project demonstrates how to create a full-featured web application using Django for the backend and JavaScript for the frontend. It involves using APIs for email operations like reading, sending, and managing emails, while also ensuring an interactive user experience.
+https://youtu.be/-G9c2P6zpDQ?si=-9TbeRWqFWm49hN5
